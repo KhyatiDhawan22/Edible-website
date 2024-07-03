@@ -1,14 +1,14 @@
 # Edible-website
 Welcome to Edible, the ultimate destination for all your food delivery needs! Edible is a fully functional restaurant website designed to provide a seamless and delightful dining experience from the comfort of your home. Built using the robust MERN stack (MongoDB, Express.js, React.js, and Node.js), Edible offers a dynamic and responsive interface that ensures you can easily browse, order, and enjoy your favorite dishes with just a few clicks.
 
-# Tech Stack
-React.js
-Refine
-Vite
-Daisy UI Tailwind
-MongoDB
-Express.js
-Node.js
+## Tech Stack
+- React.js
+- Refine
+- Vite
+- Daisy UI Tailwind
+- MongoDB
+- Express.js
+- Node.js
 
 # Features
 **Seamless Frontend-Backend Integration** : Our platform leverages the power of the MERN stack to ensure a smooth and efficient interaction between the frontend and backend. This means that you get a fast and responsive website that handles your orders and requests in real-time.

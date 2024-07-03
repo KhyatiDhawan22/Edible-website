@@ -1,4 +1,4 @@
-# Edible-website
+# Edible : A Food Delivery Website
 Welcome to Edible, the ultimate destination for all your food delivery needs! Edible is a fully functional restaurant website designed to provide a seamless and delightful dining experience from the comfort of your home. Built using the robust MERN stack (MongoDB, Express.js, React.js, and Node.js), Edible offers a dynamic and responsive interface that ensures you can easily browse, order, and enjoy your favorite dishes with just a few clicks.
 
 ## Tech Stack

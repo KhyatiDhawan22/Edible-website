@@ -38,7 +38,7 @@ const SpecialDishes = () => {
   const slider = React.useRef(null);
 
   useEffect(() => {
-    fetch("http://localhost:3000/menu")
+    fetch("/menu.json")
       .then((res) => res.json())
       .then((data) => {
         const specials = data.filter((item) => item.category === "Popular");

@@ -1,0 +1,482 @@
+[
+  {
+    "_id": "642c155b2c47s74f05c36eeaa",
+    "name": "Classic Chocolate Fudge Cake",
+    "recipe": "Decadent dark chocolate cake with fudgy frosting",
+    "image": "/images/recipes/chocolate_fudge_cake.jpeg",
+    "category": "Popular",
+    "price": 35
+  },
+  {
+    "_id": "642c155b2c4774f05c36eeb9",
+    "name": "Lemon Blueberry Drizzle Cake",
+    "recipe": "Tangy lemon cake with blueberries and citrusy glaze",
+    "image": "/images/recipes/lemon_blueberry_cheesecake.jpeg",
+    "category": "Popular",
+    "price": 25
+  },
+  {
+    "_id": "642c155b2c4774f05c36ee7c",
+    "name": "Red Velvet Cheesecake",
+    "recipe": "Moist red velvet cake with creamy cheesecake filling",
+    "image": "/images/recipes/red_velvet_cheesecake.jpeg",
+    "category": "Popular",
+    "price": 45
+  },
+  {
+    "_id": "642c155b2c4774f05c36ee88",
+    "name": "Almond Croissant",
+    "recipe": "Buttery, flaky pastry with almond frangipane filling",
+    "image": "/images/recipes/almond_croissant.jpeg",
+    "category": "Popular",
+    "price": 5
+  },
+  {
+    "_id": "642c155b2c4774f05c36ee7a",
+    "name": "Vanilla Ice Cream Sundae",
+    "recipe": "Vanilla bean ice cream with whipped cream and cocoa powder",
+    "image": "/images/recipes/vanilla_icecream.jpeg",
+    "category": "Popular",
+    "price": 8
+  },
+  {
+    "_id": "642c155b2c4774f05c36ee74",
+    "name": "Chocolate Truffle Sundae",
+    "recipe": "Chocolate ice cream with chocolate ganache, truffle pieces, and cocoa nibs",
+    "image": "/images/recipes/decadent_icecream.jpeg",
+    "category": "Popular",
+    "price": 12
+  },
+  {
+    "_id": "642c155b2c4774f05c36ee712",
+    "name": "Strawberry Basil Sorbet",
+    "recipe": "Sorbet with strawberries and basil leaves",
+    "image": "/images/recipes/strawberry_sorbet.jpeg",
+    "category": "Popular",
+    "price": 6
+  },
+  {
+    "_id": "642c155b2c4774f05c36ee7x",
+    "name": "Salted Caramel Crunch Ice Cream",
+    "recipe": "Caramel ice cream with caramel sauce, toffee pieces, and flaky sea salt",
+    "image": "/images/recipes/salted_caramel_crunch.jpeg",
+    "category": "Ice Creams",
+    "price": 6
+  },
+  {
+    "_id": "642c155b2c4774f05c36ee8c",
+    "name": "Classic Chocolate Chip Cookies",
+    "recipe": "Chewy cookies with semisweet chocolate chips",
+    "image": "/images/recipes/chocolate_cookie.jpeg",
+    "category": "Cookies and Brownies",
+    "price": 2
+  },
+  {
+    "_id": "642c155b2c4774f05c36ee94",
+    "name": "Salted Caramel Brownies",
+    "recipe": "Fudgy brownies with pockets of caramel and flaky sea salt",
+    "image": "/images/recipes/Caramel_brownie.jpeg",
+    "category": "Cookies and Brownies",
+    "price": 22.5
+  },
+  {
+    "_id": "642c155b2c4774f05c36ee9e",
+    "name": "Double Chocolate Espresso Cookies",
+    "recipe": "Dark chocolate cookies with espresso powder",
+    "image": "/images/recipes/double_choco_expresso.jpeg",
+    "category": "Cookies and Brownies",
+    "price": 3.5
+  },
+  {
+    "_id": "642c155b2c4774f05c36eea6",
+    "name": "Peanut Butter Swirl Brownies",
+    "recipe": "Fudgy brownies swirled with peanut butter",
+    "image": "/images/recipes/peanut_butter_brownies.jpeg",
+    "category": "Cookies and Brownies",
+    "price": 22.5
+  },
+  {
+    "_id": "642c155b2c4774f05c36eeaf",
+    "name": "Chocolate Babka",
+    "recipe": "Rich yeasted bread swirled with chocolate filling",
+    "image": "/images/recipes/chocolate_babka.jpeg",
+    "category": "Cakes and Pastries",
+    "price": 8
+  },
+  {
+    "_id": "642c155b2c4774f05c36ee89",
+    "name": "Carrot Cake with Cream Cheese Frosting",
+    "recipe": "Spiced carrot cake with tangy cream cheese frosting",
+    "image": "/images/recipes/carrot_cheesecake.jpeg",
+    "category": "Cakes and Pastries",
+    "price": 30
+  },
+  {
+    "_id": "642c155b2c4774f05c36ee8a",
+    "name": "Blueberry Muffins",
+    "recipe": "Light and fluffy muffins bursting with blueberries",
+    "image": "/images/recipes/blueberry_muffin.png",
+    "category": "Cakes and Pastries",
+    "price": 3
+  },
+  {
+    "_id": "642c155b2c4774f05c36ee96",
+    "name": "Coffee Oreo Cookie Blast Ice Cream",
+    "recipe": "Coffee ice cream with Oreo cookie chunks",
+    "image": "/images/recipes/oreo_icecream.png",
+    "category": "Ice Creams",
+    "price": 10
+  },
+  {
+    "_id": "642c155b2c4774f05c36ee81",
+    "name": "Mango Sorbet",
+    "recipe": "Refreshing sorbet made with real mangoes",
+    "image": "/images/recipes/mango_sorbet.png",
+    "category": "Ice Creams",
+    "price": 7
+  },
+  {
+    "_id": "642c155b2c4774f05c36ee84",
+    "name": "Mint Chocolate Chip Ice Cream",
+    "recipe": "Classic mint ice cream with chocolate chips",
+    "image": "/images/recipes/mint_choco_icecream.png",
+    "category": "Ice Creams",
+    "price": 8
+  },
+  {
+    "_id": "642c155b2c4774f05c36eea4",
+    "name": "Oatmeal Raisin Cookies",
+    "recipe": "Chewy oatmeal cookies with plump raisins",
+    "image": "/images/recipes/oatmeal_cookie.png",
+    "category": "Cookies and Brownies",
+    "price": 2
+  },
+  {
+    "_id": "642c155b2c4774f05c36eea5",
+    "name": "Peanut Butter Blondies",
+    "recipe": "Chewy blondies with pockets of peanut butter",
+    "image": "/images/recipes/peanut_butter_blondies.png",
+    "category": "Cookies and Brownies",
+    "price": 18
+  },
+  {
+    "_id": "642c155b2c4774f05c36ee87",
+    "name": "Snickerdoodles",
+    "recipe": "Soft cinnamon sugar cookies",
+    "image": "/images/recipes/Snickerdoodles.png",
+    "category": "Cookies and Brownies",
+    "price": 2.5
+  },
+  {
+    "_id": "642c155b2c4774f05c36ee83",
+    "name": "Cannoli",
+    "recipe": "Crispy pastry shells filled with ricotta cream",
+    "image": "/images/recipes/Cannoli.png",
+    "category": "Cakes and Pastries",
+    "price": 4
+  },
+  {
+    "_id": "642c155b2c4774f05c36ee7f",
+    "name": "Flourless Chocolate Cake",
+    "recipe": "Dense and decadent chocolate cake made without flour",
+    "image": "/images/recipes/Flourless_choco.png",
+    "category": "Cakes and Pastries",
+    "price": 38
+  },
+  {
+    "_id": "642c155b2c4774f05c36eea8",
+    "name": "Scones",
+    "recipe": "Crumbly and buttery pastries with various fillings or toppings",
+    "image": "/images/recipes/Scones.png",
+    "category": "Cakes and Pastries",
+    "price": 2.5
+  },
+  {
+    "_id": "642c155b2c4774f05c36eeba",
+    "name": "Pistachio Gelato",
+    "recipe": "Rich and creamy gelato with a nutty pistachio flavor",
+    "image": "/images/recipes/Pistachio_gelato.png",
+    "category": "Ice Creams",
+    "price": 9
+  },
+  {
+    "_id": "642c155b2c4774f05c36ee80",
+    "name": "Cookies and Cream Ice Cream",
+    "recipe": "Vanilla ice cream with chocolate cookie chunks",
+    "image": "/images/recipes/vanilla_cookie_icecream.png",
+    "category": "Ice Creams",
+    "price": 8
+  },
+  {
+    "_id": "642c155b2c4774f05c36ee90",
+    "name": "Peach Melba Ice Cream",
+    "recipe": "Peach ice cream with swirls of raspberry sauce and toasted almonds",
+    "image": "/images/recipes/Peach_melba.png",
+    "category": "Ice Creams",
+    "price": 10
+  },
+  {
+    "_id": "642c155b2c4774f05c36eeb0",
+    "name": "Gingerbread Cookies",
+    "recipe": "Spiced cookies with a molasses flavor, often decorated for holidays",
+    "image": "/images/recipes/Gingerbread_cookies.png",
+    "category": "Cookies and Brownies",
+    "price": 2
+  },
+  {
+    "_id": "642c155b2c4774f05c36ee8d",
+    "name": "Chocolate Chip Cookie Dough Bars",
+    "recipe": "Baked bars made with edible cookie dough",
+    "image": "/images/recipes/choco_dough_bars.png",
+    "category": "Cookies and Brownies",
+    "price": 3
+  },
+  {
+    "_id": "642c155b2c4774f05c36ee8e",
+    "name": "Shortbread Cookies",
+    "recipe": "Buttery and crumbly cookies with a simple flavor",
+    "image": "/images/recipes/shortbread_cookies.png",
+    "category": "Cookies and Brownies",
+    "price": 2
+  },
+  {
+    "_id": "642c155b2c4774f05c36eea7",
+    "name": "Eclairs",
+    "recipe": "Long, thin pastries with choux pastry shell and creamy filling",
+    "image": "/images/recipes/Eclairs.png",
+    "category": "Cakes and Pastries",
+    "price": 5
+  },
+  {
+    "_id": "642c155b2c4774f05c36ee99",
+    "name": "Cheesecake",
+    "recipe": "Classic dessert with a crumbly crust and creamy cheese filling",
+    "image": "/images/recipes/cheesecake.png",
+    "category": "Cakes and Pastries",
+    "price": 35
+  },
+  {
+    "_id": "642c155b2c4774f05c36eeb3",
+    "name": "Macarons",
+    "recipe": "Delicate French cookies made with almond flour, meringue, and buttercream filling",
+    "image": "/images/recipes/Macarons.png",
+    "category": "Cakes and Pastries",
+    "price": 3
+  },
+  {
+    "_id": "642c155b2c4774f05c36eeb5",
+    "name": "Coffee Chip Cookie Dough Ice Cream",
+    "recipe": "Vanilla ice cream with chocolate chip cookie dough pieces",
+    "image": "/images/recipes/coffee_cookie_icecream.png",
+    "category": "Ice Creams",
+    "price": 8
+  },
+  {
+    "_id": "642c155b2c4774f05c36eeb6",
+    "name": "Watermelon Sorbet",
+    "recipe": "Refreshing sorbet made with fresh watermelon",
+    "image": "/images/recipes/watermelon_sorbet.png",
+    "category": "Ice Creams",
+    "price": 7
+  },
+  {
+    "_id": "642c155b2c4774f05c36eeb8",
+    "name": "Chocolate Brownie Ice Cream",
+    "recipe": "Chocolate ice cream with chunks of fudge brownie",
+    "image": "/images/recipes/Chocolate_brownie_icecream.png",
+    "category": "Ice Creams",
+    "price": 9
+  },
+  {
+    "_id": "642c155b2c4774f05c36ee7e",
+    "name": "Sugar Cookies",
+    "recipe": "Simple and versatile cookies, often decorated with icing or sprinkles",
+    "image": "/images/recipes/Sugar_cookies.png",
+    "category": "Cookies and Brownies",
+    "price": 1.5
+  },
+  {
+    "_id": "642c155b2c4774f05c36ee8b",
+    "name": "White Chocolate Chunk Blondies",
+    "recipe": "Chewy blondies with white chocolate chunks",
+    "image": "/images/recipes/White_chocolate_chunk.png",
+    "category": "Cookies and Brownies",
+    "price": 18
+  },
+  {
+    "_id": "642c155b2c4774f05c36ee8f",
+    "name": "Peanut Butter Blossoms",
+    "recipe": "Peanut butter cookies with a Hershey's Kiss in the center",
+    "image": "/images/recipes/peanut_butter_blossoms.png",
+    "category": "Cookies and Brownies",
+    "price": 2.5
+  },
+  {
+    "_id": "642c155b2c4774f05c36ee91",
+    "name": "Fruit Tart",
+    "recipe": "Open-faced pastry crust filled with fresh fruit and glaze",
+    "image": "/images/recipes/fruit_tart.png",
+    "category": "Cakes and Pastries",
+    "price": 28
+  },
+  {
+    "_id": "642c155b2c4774f05c36ee97",
+    "name": "Tiramisu",
+    "recipe": "Layered coffee-flavored ladyfingers with mascarpone cream",
+    "image": "/images/recipes/Tiramisu.png",
+    "category": "Cakes and Pastries",
+    "price": 40
+  },
+  {
+    "_id": "642c155b2c4774f05c36eea0",
+    "name": "Sfogliatelle",
+    "recipe": "Italian ricotta pastry with flaky phyllo dough",
+    "image": "/images/recipes/sfogliatella.png",
+    "category": "Cakes and Pastries",
+    "price": 6
+  },
+  {
+    "_id": "642c155b2c4774f05c36eea9",
+    "name": "Rocky Road Ice Cream",
+    "recipe": "Chocolate ice cream with marshmallows, nuts, and chocolate chunks",
+    "image": "/images/recipes/Rocky.png",
+    "category": "Ice Creams",
+    "price": 9
+  },
+  {
+    "_id": "642c155b2c4774f05c36ee85",
+    "name": "Mango Lassi Ice Cream",
+    "recipe": "Creamy ice cream made with mango puree and yogurt",
+    "image": "/images/recipes/mango_lassi.png",
+    "category": "Ice Creams",
+    "price": 8
+  },
+  {
+    "_id": "642c155b2c4774f05c36ee93",
+    "name": "Black Cherry Chip Ice Cream",
+    "recipe": "Cherry ice cream with dark chocolate chips",
+    "image": "/images/recipes/Black_cherry.png",
+    "category": "Ice Creams",
+    "price": 8
+  },
+  {
+    "_id": "642c155b2c4774f05c36ee95",
+    "name": "Snickerdoodle Blondies",
+    "recipe": "Chewy blondies with cinnamon sugar topping",
+    "image": "/images/recipes/Snickerdoodle_blondies.png",
+    "category": "Cookies and Brownies",
+    "price": 2
+  },
+  {
+    "_id": "642c155b2c4774f05c36ee9b",
+    "name": "Brownie Batter Rice Krispie Treats",
+    "recipe": "Rice Krispie treats made with brownie batter",
+    "image": "/images/recipes/rice_treat.png",
+    "category": "Cookies and Brownies",
+    "price": 3
+  },
+  {
+    "_id": "642c155b2c4774f05c36eeb7",
+    "name": "Oatmeal Cranberry Cookies",
+    "recipe": "Chewy oatmeal cookies with tart cranberries",
+    "image": "/images/recipes/oatmeal.png",
+    "category": "Cookies and Brownies",
+    "price": 2
+  },
+  {
+    "_id": "642c155b2c4774f05c36ee9c",
+    "name": "Profiteroles",
+    "recipe": "Puff pastry puffs filled with cream and topped with chocolate sauce",
+    "image": "/images/recipes/profiteroles.png",
+    "category": "Cakes and Pastries",
+    "price": 6
+  },
+  {
+    "_id": "642c155b2c4774f05c36ee9d",
+    "name": "Red Velvet Cupcakes",
+    "recipe": "Miniature red velvet cakes with cream cheese frosting",
+    "image": "/images/recipes/red_cupcake.png",
+    "category": "Cakes and Pastries",
+    "price": 3
+  },
+  {
+    "_id": "642c155b2c4774f05c36eeac",
+    "name": "Danish Pastry",
+    "recipe": "Flaky pastry with various sweet fillings and toppings",
+    "image": "/images/recipes/danish.png",
+    "category": "Cakes and Pastries",
+    "price": 4
+  },
+  {
+    "_id": "642c155b2c4774f05c36eeb4",
+    "name": "Salted Caramel Swirl Ice Cream",
+    "recipe": "Vanilla ice cream with swirls of salted caramel sauce",
+    "image": "/images/recipes/vanilla_icecream.jpeg",
+    "category": "Ice Creams",
+    "price": 8
+  },
+  {
+    "_id": "642c155b2c4774f05c36ee98",
+    "name": "Avocado Chocolate Chip Ice Cream",
+    "recipe": "Creamy avocado ice cream with dark chocolate chips",
+    "image": "/images/recipes/avacado.png",
+    "category": "Ice Creams",
+    "price": 9
+  },
+  {
+    "_id": "642c155b2c4774f05c36ee82",
+    "name": "Pistachio Biscotti Ice Cream",
+    "recipe": "Pistachio ice cream with chunks of biscotti cookies",
+    "image": "/images/recipes/pistachio_biscotti.png",
+    "category": "Ice Creams",
+    "price": 10
+  },
+  {
+    "_id": "642c155b2c4774f05c36ee86",
+    "name": "M&M Cookies",
+    "recipe": "Soft and chewy cookies packed with M&M's candies",
+    "image": "/images/recipes/mm_cookie.png",
+    "category": "Cookies and Brownies",
+    "price": 2.5
+  },
+  {
+    "_id": "642c155b2c4774f05c36ee9a",
+    "name": "Chocolate Chunk Brownie Bites",
+    "recipe": "Bite-sized brownies packed with chocolate chunks",
+    "image": "/images/recipes/chocolate_cookie.jpeg",
+    "category": "Cookies and Brownies",
+    "price": 18
+  },
+  {
+    "_id": "642c155b2c4774f05c36eeab",
+    "name": "Lemon Bars",
+    "recipe": "Shortbread crust with a tart and sweet lemon filling",
+    "image": "/images/recipes/lemon_bars.png",
+    "category": "Cookies and Brownies",
+    "price": 2
+  },
+  {
+    "_id": "642c155b2c4774f05c36eeb1",
+    "name": "Cupcakes",
+    "recipe": "Miniature cakes with various flavors and frostings",
+    "image": "/images/recipes/red_cupcake.png",
+    "category": "Cakes and Pastries",
+    "price": 2.5
+  },
+  {
+    "_id": "642c155b2c4774f05c36eead",
+    "name": "Coffee Frappe",
+    "recipe": "Blended ice cream drink with coffee, milk, and flavorings",
+    "image": "/images/recipes/coffee_frappe.png",
+    "category": "Ice Creams",
+    "price": 7
+  },
+  {
+    "_id": "642c155b2c4774f05c36eeae",
+    "name": "Strawberry Cheesecake Ice Cream",
+    "recipe": "Strawberry ice cream with cheesecake swirls and graham cracker pieces",
+    "image": "/images/recipes/red_velvet_cheesecake.jpeg",
+    "category": "Ice Creams",
+    "price": 9
+  }
+]

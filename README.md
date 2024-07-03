@@ -21,6 +21,10 @@ Welcome to Edible, the ultimate destination for all your food delivery needs! Ed
 
 **Interactive Chatbot**: Need help navigating the site or deciding what to order? Our interactive chatbot is here to assist you! The chatbot can provide information about the restaurant, suggest dishes based on your preferences, and answer any questions you may have. It's like having a personal assistant dedicated to enhancing your dining experience.
 
+## Video Overview
+
+https://github.com/KhyatiDhawan22/refine_dashboard/assets/112753105/f3c7a192-adcc-4ccc-87f3-e21fa1ebe443
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.

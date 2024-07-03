@@ -1,6 +1,15 @@
 # Edible-website
 Edible is a food delivery , fully functional restaurant site using MongoDB, Express.js, React.js, and Node.js. Features include seamless frontend-backend integration, Firebase authentication, image hosting, and online food ordering.
 
+# Tech Stack
+React.js
+Refine
+Vite
+Daisy UI Tailwind
+MongoDB
+Express.js
+Node.js
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
